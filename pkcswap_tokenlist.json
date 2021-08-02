@@ -14,8 +14,8 @@
   ],
   "tokens": [
     {
-      "name": "Wrapped Ether",
-      "address": "0x2472616E007EFb5CAe2b70b61714dCc4a68FDf19",
+      "name": "Wrapped HT",
+      "address": "0x7aF326B6351C8A9b8fb8CD205CBe11d4Ac5FA836",
       "symbol": "WHT",
       "decimals": 18,
       "chainId": 256,
