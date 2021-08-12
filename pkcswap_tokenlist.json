@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "http://raw.githubusercontent.com/963149946/tokenlist/main/pkcswap.svg",
+  "logoURI": "http://cdn.jsdelivr.net/gh/963149946/tokenlist@1.0/pkcswap.svg",
   "keywords": [
     "PKCSWAP",
     "default"
