@@ -14,6 +14,14 @@
   ],
   "tokens": [
     {
+      "name": "GZL",
+      "address": "0x2E8d658cC75149ECe4f43FFF4C21edC319E37833",
+      "symbol": "GZL22",
+      "decimals": 2,
+      "chainId": 80001,
+      "logoURI": "http://cdn.jsdelivr.net/gh/963149946/tokenlist@2.2/GZL.jpg"
+    },
+    {
       "name": "Dai Stablecoin",
       "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
       "symbol": "DAI",
