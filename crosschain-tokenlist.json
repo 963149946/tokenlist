@@ -43,7 +43,7 @@
       "symbol": "WMATIC",
       "decimals": 18,
       "chainId": 80001,
-      "logoURI": "https://res.cloudinary.com/dnz2bkszg/image/fetch/f_auto/https://raw.githubusercontent.com/sushiswap/icons/master/token/polygon.jpg"
+      "logoURI": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png"
     },
      {
       "name": "Wrapped Matic",
@@ -51,7 +51,7 @@
       "symbol": "WMATIC",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://res.cloudinary.com/dnz2bkszg/image/fetch/f_auto/https://raw.githubusercontent.com/sushiswap/icons/master/token/polygon.jpg"
+      "logoURI": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png"
     },
     {
       "name": "decentral.games",
